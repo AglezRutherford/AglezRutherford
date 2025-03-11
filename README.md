@@ -19,9 +19,7 @@
 ### Languages and Tools:  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://fortran-lang.org/assets/img/fortran-logo.svg" alt="Fortran" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50"/>
-  <img src="https://root.cern/img/root-graphics.png" alt="ROOT-CERN" width="50" height="50"/>
   <img src="https://www.r-project.org/Rlogo.png" alt="R" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" height="50"/>
